@@ -1,4 +1,6 @@
-# Front-End-Development
+## Front-End-Development
 website development without backend
 
-## frontend basics theory "./HowItWorks"
+### Course contents:
+
+- #### [How does websites work](HowItWorks/1.HowDoesWebsitesWorks.md)
